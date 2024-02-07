@@ -117,4 +117,4 @@ setAlarm.addEventListener("click", () => {
 window.onload = () => {
     setInterval(displayTimer, 1000);
     [hourInput.value, minuteInput.value] = ["", ""];
-};
+}
