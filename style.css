@@ -8,7 +8,7 @@
 }
 
 body{
-    display: ;
+    display: flex ;
     align-items: centr;
     justify-content: ceter;
     min-height: 100vh;
